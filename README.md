@@ -20,10 +20,10 @@
 
 Available on Docker Hub as [`docker.io/ricardbejarano/consul_exporter`](https://hub.docker.com/r/ricardbejarano/consul_exporter):
 
-- [`0.9.0`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.10.0`, `latest` *(Dockerfile)*](Dockerfile)
 
 ### RedHat Quay
 
 Available on RedHat Quay as [`quay.io/ricardbejarano/consul_exporter`](https://quay.io/repository/ricardbejarano/consul_exporter):
 
-- [`0.9.0`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.10.0`, `latest` *(Dockerfile)*](Dockerfile)

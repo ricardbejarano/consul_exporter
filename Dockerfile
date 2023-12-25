@@ -1,7 +1,7 @@
 FROM golang:1-alpine AS build
 
-ARG VERSION="0.9.0"
-ARG CHECKSUM="01dfd5a15b73993ca00c9c7e8b04d3ae9170c5cb68c951c704617b8e4862cace"
+ARG VERSION="0.10.0"
+ARG CHECKSUM="0c1cf170a29aabafb3fbb1278aee2127376c73b4d917eef1f40e92730cefe095"
 
 ADD https://github.com/prometheus/consul_exporter/archive/v$VERSION.tar.gz /tmp/consul_exporter.tar.gz
 
